@@ -1,0 +1,10 @@
+body{
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  gap: 1rem;
+  overflow: hidden;
+  background-color: #E49BFF;
+}
